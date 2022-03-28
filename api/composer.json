@@ -1,0 +1,15 @@
+{
+  "name": "jadeedwardduran/api",
+  "autoload": {
+    "psr-4": {
+      "": "controllers/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ywrath",
+      "email": "jadeeduran.jd@gmail.com"
+    }
+  ],
+  "require": {}
+}
